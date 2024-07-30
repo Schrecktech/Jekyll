@@ -1,3 +1,13 @@
 theme: minima
 title: Schrecktech's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+show_excerpts: true
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/scottschreckengaust" }
+    - { platform: x, user_url: "https://x.com/scottschrecken" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/scottschreckengaust" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/854752/scott-robert-schreckengaust" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@scottschreckengaust" }
